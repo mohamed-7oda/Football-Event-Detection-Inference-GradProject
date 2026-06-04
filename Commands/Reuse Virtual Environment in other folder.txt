@@ -1,0 +1,1 @@
+& "C:\Users\mohamed mahmoud emam\OneDrive\Desktop\Soccernet Repo\venv\Scripts\Activate.ps1"
